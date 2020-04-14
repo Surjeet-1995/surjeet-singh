@@ -17,6 +17,10 @@ snake.html
   canvas {
     border: 1px solid         white;
   }
+  
+  
+  
+  
   </style>
 </head>
 <body>
@@ -45,6 +49,12 @@ var apple = {
   x: 320,
   y: 320
 };
+
+
+
+
+
+
 // get random whole numbers in a specific range
 // @see https://stackoverflow.com/a/1527820/2124254
 function getRandomInt(min, max) {
